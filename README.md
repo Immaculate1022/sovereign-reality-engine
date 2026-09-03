@@ -11,6 +11,7 @@ The SRE is a speculative photonic-mechanical architecture that treats collective
 ## Quick Links
 
 - **[Full Whitepaper](WHITEPAPER.md)** — Complete elaborated document
+- **[Exploratory Experiments](experiments/README.md)** — Local numerical probes, including the permanent-throat diagnostic
 - Original source concept derived from the short-form whitepaper (August 2026)
 
 ---
@@ -56,7 +57,7 @@ By binding governance to physical constants (interference, piezoelectric thresho
 ```
 ├── README.md          ← You are here
 ├── WHITEPAPER.md       ← Full elaborated whitepaper
-└── (future)           ← Simulations, optical models, or hardware notes welcome
+└── experiments/        ← Explicitly exploratory numerical models and notes
 ```
 
 ---
@@ -65,7 +66,7 @@ By binding governance to physical constants (interference, piezoelectric thresho
 
 This is a **conceptual / speculative** architecture. It deliberately blends real photonic materials (Thin-Film Lithium Niobate, graphene aerogel, piezoelectric quartz) with governance theory and quantum-inspired metaphors. It is offered as a thought experiment, design fiction, and invitation to explore what happens when consensus is forced to obey the laws of physics rather than the laws of politics.
 
-Contributions, critiques, simulations, and alternative physical implementations are welcome.
+Contributions, critiques, simulations, and alternative physical implementations are welcome. Any experiment should state its assumptions, numerical method, reproducibility conditions, and evidence boundary.
 
 ---
 
